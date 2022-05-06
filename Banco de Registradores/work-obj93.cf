@@ -1,0 +1,10 @@
+v 4
+file . "banco8regs_tb.vhdl" "14c2f46b88eda452e57057d5f23a8716c27af809" "20220506145144.021":
+  entity banco8regs_tb at 1( 0) + 0 on 17;
+  architecture a_banco8regs_tb of banco8regs_tb at 9( 109) + 0 on 18;
+file . "banco8regs.vhdl" "8c4de8753a5bc82d89a617309712e5592a850a58" "20220506145143.850":
+  entity banco8regs at 1( 0) + 0 on 11;
+  architecture a_banco8regs of banco8regs at 20( 416) + 0 on 12;
+file . "mux8x3.vhdl" "d355c9f4421837e84eb1141df4b096ff8f2ca87a" "20220506145143.963":
+  entity mux8x3 at 1( 0) + 0 on 15;
+  architecture a_mux8x3 of mux8x3 at 13( 279) + 0 on 16;
