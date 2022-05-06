@@ -1,6 +1,9 @@
 echo "-----------------------------banco8regs-------------------------------------"
 ghdl -a	 banco8regs.vhdl
 ghdl -e	 banco8regs
+echo "-----------------------------banco8regs-------------------------------------"
+ghdl -a	 reg16bits.vhdl
+ghdl -e	 reg16bits
 echo "-----------------------------decoder3x8-------------------------------------"
 ghdl -a	 decoder3x8.vhdl
 ghdl -e	 decoder3x8

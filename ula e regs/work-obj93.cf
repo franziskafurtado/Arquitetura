@@ -1,0 +1,22 @@
+v 4
+file . "banco_com_ula.vhdl" "23f3821595a80f8e60b922e56d4fbb9f2ed6f64a" "20220506183852.321":
+  entity banco_com_ula at 1( 0) + 0 on 35;
+  architecture a_banco_com_ula of banco_com_ula at 21( 452) + 0 on 36;
+file . "reg16bits.vhdl" "b48c580a8e7a501cab7be0a7518a4c4fdd7243a3" "20220506183852.155":
+  entity reg16bits at 1( 0) + 0 on 31;
+  architecture a_reg16bits of reg16bits at 15( 255) + 0 on 32;
+file . "mux2x1.vhdl" "b633a5d447669b90d915d6626a4d7f4d8f51906c" "20220506183852.028":
+  entity mux2x1 at 1( 0) + 0 on 27;
+  architecture a_mux2x1 of mux2x1 at 13( 210) + 0 on 28;
+file . "banco8regs.vhdl" "faeb395baef404181132664776c28630226ef3a4" "20220506183851.933":
+  entity banco8regs at 1( 0) + 0 on 25;
+  architecture a_banco8regs of banco8regs at 20( 397) + 0 on 26;
+file . "mux8x3.vhdl" "d6b5b669345677bbf039bed7e17cc3fe033cff7c" "20220506183852.095":
+  entity mux8x3 at 1( 0) + 0 on 29;
+  architecture a_mux8x3 of mux8x3 at 13( 239) + 0 on 30;
+file . "ula.vhdl" "6eac8b69867205bd874b1b7dceba4c3f3743293f" "20220506183852.242":
+  entity ula at 1( 0) + 0 on 33;
+  architecture a_ula of ula at 15( 291) + 0 on 34;
+file . "banco_com_ula_tb.vhdl" "0cb7884a0abb86ca724474ba23ce0011c24907a5" "20220506183852.418":
+  entity banco_com_ula_tb at 1( 0) + 0 on 37;
+  architecture a_banco_com_ula_tb of banco_com_ula_tb at 8( 103) + 0 on 38;
